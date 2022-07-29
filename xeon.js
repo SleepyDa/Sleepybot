@@ -176,11 +176,11 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
                 xeonbody = `┌─❖
 │「 𝗛𝗶 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
-   │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
+   │✑  𝗕𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼 𝗮 :
    │✑  ${metadata.subject}
-   │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
+   │✑  𝗠𝗶𝗲𝗺𝗯𝗿𝗼: : 
    │✑ ${xmembers}th
-   │✑  𝗝𝗼𝗶𝗻𝗲𝗱 : 
+   │✑  𝗦𝗲 𝘂𝗻𝗶𝗼́ 𝗲𝗻:  
    │✑ ${xtime} ${xdate}
    └───────────────┈ ⳹`
       //if you copy the code value,
@@ -202,7 +202,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `${ownername}`,
-body: `Don't forget to read group description`,
+body: `No olvides de leer la descripción del grupo` ,
 mediaType:2,
 thumbnail: XeonWlcm,
 sourceUrl: `${websitex}`,
@@ -218,13 +218,13 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 Adiós 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
-   │✑  𝗟𝗲𝗳𝘁 
+   │✑  𝗦𝗮𝗹𝗶́𝗼 
    │✑ ${metadata.subject}
    │✑  𝗠𝗲𝗺𝗯𝗲𝗿 : 
    │✑ ${xeonmembers}th
-   │✑  𝗧𝗶𝗺𝗲 : 
+   │✑  𝗧𝗶𝗲𝗺𝗽𝗼 : 
    │✑  ${xeontime} ${xeondate}
    └───────────────┈ ⳹`
       //if you copy the code value,
