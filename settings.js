@@ -61,8 +61,8 @@ global.socialm = "GitHub: SleepyDa" //ur github or insta name
 global.location = "México" //ur location
 
 //bot bomdy 
-global.owner = ['529999944999']
-global.ownertag = '529999944999' //ur tag number
+global.owner = ['50255162627']
+global.ownertag = 'Sleepy' //ur tag number
 global.botname = 'Sleepy' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
